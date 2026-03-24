@@ -4,7 +4,7 @@ This is a collection of camera controllers using Unity's new Input System. All k
 through the `InputActions` asset for each controller.
 
 These camera controllers are designed to be modular and extensible so that you can easily drop them into any Unity
-project for prototyping or to customise and extend.
+project for prototyping or to customise and extend them as the basis for your own gameplay systems.
 
 ## RTS Camera Controller
 
@@ -18,7 +18,8 @@ The actual camera in the scene should be a child of this rig, and should be posi
 distance from the rig, with a rotation such that it is looking at the rig. The default values for these are then initialized
 from this position whenever the game is launched.
 
-You can simply drag and drop the RTS Camera Rig prefab in your scene. Make sure you remove any duplicate cameras if you do this.
+There is an RTS Camera Rig prefab in the Prefabs forlder that you can drop in your scene.
+Make sure to remove any duplicate cameras if you do this.
 
 ### Controls
 
