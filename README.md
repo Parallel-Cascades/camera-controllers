@@ -72,3 +72,4 @@ It can be combined with a character controller for a third person camera setup, 
   - `Space` to reset zoom and rotation
 - Mouse:
   - `Right Click + Drag` to orbit the camera around the target point
+  - `Scroll` to adjust the camera's zoom
