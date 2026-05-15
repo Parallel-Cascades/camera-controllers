@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 744ab83d8b4faac49acd3b888bc9c5c6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/Samples/TanksDesertLevel/Prefabs/Environment/Desert/HelipadSand.prefab
+  uploadId: 912872

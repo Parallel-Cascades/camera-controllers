@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e415f68c58c51648bca36a710b48652
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/Prefabs/Orbit Camera.prefab
+  uploadId: 912872

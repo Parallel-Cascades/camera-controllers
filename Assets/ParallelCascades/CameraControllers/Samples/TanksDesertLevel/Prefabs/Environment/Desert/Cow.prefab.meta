@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 58753dad958b9314089dfba48cb1e767
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/Samples/TanksDesertLevel/Prefabs/Environment/Desert/Cow.prefab
+  uploadId: 912872

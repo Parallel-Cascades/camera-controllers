@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 73dbed2f4114e4c4fb6ec1dddae831b9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/ScriptableObjects/Pitch Cursor
+    State.asset
+  uploadId: 912872

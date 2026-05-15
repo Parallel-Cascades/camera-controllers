@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38b71d7bd1de93746b2553bcbdff1a5d
+timeCreated: 1475837436
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/Samples/Strategy Camera.unity
+  uploadId: 912872

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: decbdbdc7b8b271468badfec0616a49b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/Samples/Camera Controllers
+    Sample Panel Settings.asset
+  uploadId: 912872

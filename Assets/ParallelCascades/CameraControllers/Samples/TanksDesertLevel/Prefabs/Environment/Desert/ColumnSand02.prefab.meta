@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aff1711de1236764bb1c39f9a663256f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/Samples/TanksDesertLevel/Prefabs/Environment/Desert/ColumnSand02.prefab
+  uploadId: 912872

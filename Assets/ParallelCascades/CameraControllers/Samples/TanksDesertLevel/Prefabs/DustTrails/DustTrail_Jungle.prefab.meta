@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38afd255d6ed746388b2f406bf3402a1
+timeCreated: 1432223465
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/Samples/TanksDesertLevel/Prefabs/DustTrails/DustTrail_Jungle.prefab
+  uploadId: 912872

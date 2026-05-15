@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 17aa31f395b41a04d82636ae2a872e72
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/README.md
+  uploadId: 912872

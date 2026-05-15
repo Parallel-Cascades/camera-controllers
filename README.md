@@ -1,15 +1,28 @@
 ﻿# Camera Controllers
 
-This is a collection of camera controllers using Unity's new Input System. All keybindings can be remapped
-through the `InputActions` asset for each controller.
-
+This is a collection of camera controllers using Unity's new Input System.
 These camera controllers are designed to be modular and extensible so that you can easily drop them into any Unity
 project for prototyping or to customise and extend them as the basis for your own gameplay systems.
 
-## RTS Camera Controller
+## Sample Scenes
 
-This overhead strategic camera controller combines elements of top down cameras found in games like Total War with zoom 
-and pitch and yaw rotation and mouse drag for rotation and movement, as well as traditional RTS controls like edge 
+Explore the 4 sample scenes found under Assets/ParallelCascades/CameraControllers/Samples to quickly get started.
+
+## Keybindings
+
+All keybindings are stored as actions and
+can be remapped through the `InputActions` asset for each controller:
+
+- Assets/ParalleCascades/CameraControllers/Runtime/Input
+
+Details how to remap Input Actions:
+https://docs.unity3d.com/Packages/com.unity.inputsystem@1.19/manual/ActionsEditor.html
+
+
+## Strategy Camera Controller
+
+This overhead strategic camera controller combines elements of top down cameras found in games like Total War with zoom d
+and pitch and yaw rotation and mouse drag for rotation and movement, as well as traditional RTS controls like edge
 panning and keyboard controls.
 
 ### Setup
@@ -18,7 +31,7 @@ The actual camera in the scene should be a child of this rig, and should be posi
 distance from the rig, with a rotation such that it is looking at the rig. The default values for these are then initialized
 from this position whenever the game is launched.
 
-There is an RTS Camera Rig prefab in the Prefabs forlder that you can drop in your scene.
+There is an RTS Camera Rig prefab in the Prefabs folder that you can drop in your scene.
 Make sure to remove any duplicate cameras if you do this.
 
 ### Controls
@@ -40,7 +53,7 @@ All parameters of this camera are exposed in the inspector and customisable:
 - Camera bounds, pitch limits, zoom limits
 - Screen edge pan width and height zone
 
-There is automatic pan speed adjustment based on the camera's zoom level, which is controlled by the 
+There is automatic pan speed adjustment based on the camera's zoom level, which is controlled by the
 `m_maxZoomSpeedMultiplier` - at max zoom the camera moves slower, and at min zoom the camera moves faster.
 This is to ensure that the camera movement feels consistent regardless of the zoom level.
 
@@ -61,7 +74,16 @@ the main camera at runtime. It's recommended to place it on the camera object fo
   - `Escape` to pause the camera and unlock the cursor. Pressing `Escape` again will resume the camera and lock the cursor.
   - `Left Shift` to boost movement speed
 - Mouse:
-    - Look around by moving the mouse. The camera's yaw and pitch will be adjusted based on the mouse movement.
+  - Look around by moving the mouse. The camera's yaw and pitch will be adjusted based on the mouse movement.
+
+## Scene-like Fly Camera Controller
+
+This variant fly camera controller behaves in the same way as the Scene View Camera in the Editor. Additional features
+on top of the default Fly Camera:
+
+- Hold right-click to move and look with the camera.
+- Scrolling during movement will increase or decrease the camera fly speed. A small UIToolkit display pops up to show the adjusted speed.
+- Fly speed accumulates during continuous movement.
 
 ## Orbit Camera Controller
 
@@ -74,3 +96,8 @@ It can be combined with a character controller for a third person camera setup, 
 - Mouse:
   - `Right Click + Drag` to orbit the camera around the target point
   - `Scroll` to adjust the camera's zoom
+
+If you encounter any issues, have questions, or need support, please get in touch with the developer at: support@parallelcascades.com
+or through the contact form on the website: https://parallelcascades.com
+
+If you are happy with this asset and want more free assets like it, make sure to leave a review on the Asset Store!

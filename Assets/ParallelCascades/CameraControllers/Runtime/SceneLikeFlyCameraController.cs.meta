@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: a90ef99a714544999bbd1816f88f9948
+timeCreated: 1777456934
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/Runtime/SceneLikeFlyCameraController.cs
+  uploadId: 912872

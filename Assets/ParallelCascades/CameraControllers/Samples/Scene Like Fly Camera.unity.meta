@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd483cf1eace17f4b933f18adfe5193c
+timeCreated: 1475837436
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/Samples/Scene Like Fly Camera.unity
+  uploadId: 912872

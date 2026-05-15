@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ee8222d8c17bcd40a51bcd8f0c0cb4a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/Samples/TanksDesertLevel/Prefabs/Environment/Desert/RadarSphereSand.prefab
+  uploadId: 912872

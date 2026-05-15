@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4ccc169ab3d07cf41bcb8fe8802c8774
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/Samples/TanksDesertLevel/Prefabs/Environment/Desert/ConcreteSand.prefab
+  uploadId: 912872

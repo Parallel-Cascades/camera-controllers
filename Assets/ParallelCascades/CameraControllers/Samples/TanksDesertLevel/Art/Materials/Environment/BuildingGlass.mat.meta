@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e41e83d6bd224b4d99fa3ffa5e3a3a4
+timeCreated: 1431084896
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/Samples/TanksDesertLevel/Art/Materials/Environment/BuildingGlass.mat
+  uploadId: 912872

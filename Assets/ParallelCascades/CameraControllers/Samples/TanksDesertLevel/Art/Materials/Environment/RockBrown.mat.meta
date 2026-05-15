@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8409077f9ff512c4988a0ecd4bdf6827
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/Samples/TanksDesertLevel/Art/Materials/Environment/RockBrown.mat
+  uploadId: 912872

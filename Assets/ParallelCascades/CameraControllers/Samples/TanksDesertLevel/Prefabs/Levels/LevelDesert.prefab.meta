@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a47bbcd379a3bc448a1a2ff78c0b287a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/Samples/TanksDesertLevel/Prefabs/Levels/LevelDesert.prefab
+  uploadId: 912872

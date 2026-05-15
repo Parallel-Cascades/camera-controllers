@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0838511f2430f3d42a06fb1d35251108
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/ScriptableObjects/Scene-like
+    Camera State.asset
+  uploadId: 912872

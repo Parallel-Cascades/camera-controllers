@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a9df525b0fed4af2b3747f4b08bcd360
+timeCreated: 1774281003
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368534
+  packageName: 'Camera Controllers Pack: Strategy, Fly, Orbit'
+  packageVersion: 1.0.0
+  assetPath: Assets/ParallelCascades/CameraControllers/Runtime/SharpnessUtility.cs
+  uploadId: 912872
