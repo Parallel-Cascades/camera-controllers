@@ -4,6 +4,8 @@ This is a collection of camera controllers using Unity's new Input System.
 These camera controllers are designed to be modular and extensible so that you can easily drop them into any Unity
 project for prototyping or to customise and extend them as the basis for your own gameplay systems.
 
+Available on the [Unity Asset Store](https://assetstore.unity.com/packages/tools/camera/camera-controllers-pack-strategy-fly-orbit-368534)
+
 ## Sample Scenes
 
 Explore the 4 sample scenes found under Assets/ParallelCascades/CameraControllers/Samples to quickly get started.
